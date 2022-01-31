@@ -1,0 +1,6 @@
+To run this program you must install .NET version: 5.0.
+
+
+NET5.0 Error install, how to fix:
+
+https://www.youtube.com/watch?v=ojy1p0G1kVo&ab_channel=InfoSimSof
